@@ -2,7 +2,7 @@
 <h3 align="center">A passionate beginner Web Developer learning to build cool things for the web</h3>
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/TalhaJubair601/TalhaJubair601">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+Learner;Always+Improving+My+Skills;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
