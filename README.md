@@ -28,10 +28,7 @@
 
 <h3 align="left">📈 GitHub Statistics & Analysis:</h3>
 
-### GitHub Contributions (Snake Animation):
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TalhaJubair601/TalhaJubair601/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 ### GitHub Stats:
 <p align="center">
